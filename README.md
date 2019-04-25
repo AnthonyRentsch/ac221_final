@@ -8,4 +8,4 @@ This repository contains the final project code and documentation for Anthony Re
 
 **nathan** - Nathan's scripts and notebooks.
 
-**data** - Raw crime incident report's from the City of Boston's [open data portal](https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system/resource/12cb3883-56f5-47de-afa5-3b1cf61b257b) and cleaned versions of that data for the purposes of this project.
+**data** - Raw crime incident report's from the City of Boston's [open data portal](https://data.boston.gov/) and cleaned versions of that data for the purposes of this project.
