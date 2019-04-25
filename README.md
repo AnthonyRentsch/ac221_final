@@ -1,6 +1,6 @@
 # Debiasing through Rebalancing
 
-This repository contains the final project code and docuemntation for Anthony Rentsch and Nathain Einstein's final project for Harvard's APCOMP 221 in the spring of 2019.
+This repository contains the final project code and documentation for Anthony Rentsch and Nathan Einstein's final project for Harvard's APCOMP 221 in the spring of 2019.
 
 ## Folders
 
