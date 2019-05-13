@@ -1,11 +1,11 @@
-# Debiasing through Rebalancing
+# Striking a Balance: Performance vs. Fairness Considerations when Rebalancing Data
 
 This repository contains the final project code and documentation for Anthony Rentsch and Nathan Einstein's final project for Harvard's APCOMP 221 in the spring of 2019.
 
 ## Folders
 
-**anthony** - Anthony's scripts and notebooks.
+**deliberables** - Contains poster and final report.
 
-**nathan** - Nathan's scripts and notebooks.
+**analysis** - Contains Jupyter notebooks used to clean and analyze data.
 
-**data** - Raw crime incident report's from the City of Boston's [open data portal](https://data.boston.gov/) and cleaned versions of that data for the purposes of this project.
+**data** - Contains data used for analysis portion of the project. Raw files were too large to host on Github. Please contact the authors directly if you would like to replicate this analysis.
