@@ -4,7 +4,7 @@ This repository contains the final project code and documentation for Anthony Re
 
 ## Folders
 
-**deliberables** - Contains poster and final report.
+**deliverables** - Contains poster and final report.
 
 **analysis** - Contains Jupyter notebooks used to clean and analyze data.
 
